@@ -35,7 +35,9 @@ This project was developed by the following team :
 You can browse and run the [notebooks](./notebooks). You will need to install the dependencies (in a dedicated environment) :
 
 ```
-pip install -r requirements.txt
+!pip install shap
+
+!pip install matplotlib==3.5.3
 ```
 
 ## Streamlit App
