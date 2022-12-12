@@ -22,20 +22,15 @@ Un template d'application [Streamlit](https://streamlit.io/) est disponible dans
 
 ## Presentation
 
-Complétez cette section **en anglais** avec une brève description de votre projet, le contexte (en incluant un lien vers le parcours DataScientest), et les objectifs.
+This repository contains the code for our project Pytmosphere, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
 
-Vous pouvez également ajouter une brève présentation des membres de l'équipe avec des liens vers vos réseaux respectifs (GitHub et/ou LinkedIn par exemple).
-
-**Exemple :**
-
-This repository contains the code for our project **PROJECT_NAME**, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
-
-The goal of this project is to **...**
+The goal of this project is to predict CO2 emissions of vehicules using their [technical data](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-22)
 
 This project was developed by the following team :
 
-- John Doe ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
-- Martin Dupont ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Morgane Andrès ([GitHub](https://github.com/MorganeAndres) / [LinkedIn](https://www.linkedin.com/in/morgane-andres/))
+- Quang Hai Bui  ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/in/quang-hai-b-76612672/))
+- Charles Hiribarrondo([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/in/charles-hiribarrondo-47354877/))
 
 You can browse and run the [notebooks](./notebooks). You will need to install the dependencies (in a dedicated environment) :
 
